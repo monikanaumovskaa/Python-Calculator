@@ -17,11 +17,7 @@ After the user enters the numbers and operator, they can click the "Calculate" b
 Installation & Usage:
 Clone the Repository:
 
-Clone the project to your local machine:
-bash
-Copy code
-git clone https://github.com/RosanaBlazheska/python-project--calculator.git
-cd python-project--calculator
+
 Run the Application:
 
 Execute the Python script:
